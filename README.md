@@ -54,9 +54,3 @@ Steps to run this web application
     - Set path for php file
 - Open every file in either IDE and run it in any internet browser
 
-# Contributors
-Abderahmane Naidjate (anaidjate@umassd.edu)
-
-Sharan Anilkumar (sanilkumar@umassd.edu)
-
-Harmit Pareshkumar Barot (hbarot@umassd.edu)
