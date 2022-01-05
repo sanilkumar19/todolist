@@ -53,8 +53,8 @@ Steps to run this web application
 - Open every file in either IDE and run it in any internet browser
 
 # Contributors
-Abderahmane Naidjate (anaidjate@umassd.edu)
-
 Sharan Anilkumar (sanilkumar@umassd.edu)
 
 Harmit Pareshkumar Barot (hbarot@umassd.edu)
+
+Abderahmane Naidjate (anaidjate@umassd.edu)
