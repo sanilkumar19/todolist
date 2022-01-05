@@ -1,4 +1,4 @@
-# TGIF
+# TGIF(TGIF is abbreviated as Thank God It's Friday, just a funky name for our Todo list Full Stack project)
 
 https://tgif469.000webhostapp.com/login.php
 
