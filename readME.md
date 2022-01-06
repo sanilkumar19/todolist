@@ -6,7 +6,7 @@ TGIF is an web application which helps user after they register themselves to ma
 
 # Requirements
 
-User should have system working on any OS (Mac or Windows), XAMPP, VS Code or any other suitable IDE in needs to register themselves by opening registration page in TGIF web application in order to access it. To register, user needs to enter their first and last name,email id, create a passwrod (1 uppercase, 1 number,1 special character) 
+User should have system working on any OS (Mac or Windows), XAMPP, VS Code or any other suitable IDE in needs to register themselves by opening registration page in TGIF web application in order to access it. To register, user needs to enter their first and last name,email id, create a password (1 uppercase, 1 number,1 special character) 
 
 # Design
 
